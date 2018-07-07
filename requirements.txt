@@ -1,0 +1,14 @@
+Software
+  Image processing.
+  Advanced computer vision techniques.
+  Sign language modelling.
+  Operating system.
+  SDK for Kinect.
+  C++ language.
+  Open CV.
+Hardware
+  PC or Laptop.
+  Kinect device.
+  Adapter.
+
+
